@@ -16,7 +16,6 @@
   <depend package="ethercat_hardware"/>
   <export>
       <pr2_controller_interface plugin="${prefix}/controller_plugins.xml" />
-      <rqt_gui plugin="${prefix}/plugin.xml" />
   </export>
 </package>
 
